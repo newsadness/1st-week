@@ -4,9 +4,9 @@ width: auto;
 height: auto;
 text-align: justify;
 padding: 10px;
-font-size: 28px;
+font-size: 40px;
 font-family: "Arial Black";
-
+margin-left: 25%;
     
 
     
@@ -61,8 +61,8 @@ margin: auto;
 
 
 .table{
-    margin-top: 200px;
-    margin-left: 10%;
+    margin-top: 100px;
+    margin-left: 44%;
     
     
     
@@ -78,5 +78,10 @@ margin: auto;
     padding: 10px;
     margin: auto;
     border-radius: 25px;
+    
+}
+
+.tr {
+    height: 150px;
     
 }
