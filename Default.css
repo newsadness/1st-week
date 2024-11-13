@@ -6,7 +6,7 @@ text-align: justify;
 padding: 10px;
 font-size: 28px;
 font-family: "Arial Black";
-margin-top: 50px;
+
     
 
     
@@ -65,5 +65,18 @@ margin: auto;
     margin-left: 10%;
     
     
+    
+}
+
+
+.button-top {
+    color: #2f4f4f;
+    background-color:#87dfd6;
+    font-family: "Arial Black";
+    text-align: center;
+    font-size: 28px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 25px;
     
 }
